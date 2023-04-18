@@ -12,95 +12,94 @@ a {
 header {
     padding: 20px 0;
     text-align: center;
-    font-size: 32px; 
 }
 
 .nav-list {
     text-align:  center;
+    padding: 15px 0;
+    border-bottom: 1px solid gray;
+    border-top: 1px solid gray;
 }
 
 .nav-list-item {
-    display: inline-table; 
-    padding: 15px 20px;
+    display: inline-block; 
+    margin: 0 20px;
 }
 
 .main {
     width: 800px;
-    height: 700px;
-    margin: 0 auto;
-    padding: 50px 0;
-    font-size: 0;
+    margin: 50px auto;
+    display: flex;
+    flex-wrap: wrap;
 }
 
 .main-1 {
-    display: inline-block;
     background-color: #e6ffe9;
     width: 200px;
     height: 200px;
 }
 
 .main-2 {
-    display: inline-block;
     background-color: #cbffd3;
     width: 200px;
     height: 200px;
 }
+
 .main-3 {
-    display: inline-block;
     background-color: #aeffbd;
     width: 200px;
     height: 200px;
 }
+
 .main-4 {
-    display: inline-block;
     background-color: #93ffab;
     width: 200px;
     height: 200px;
 }
+
 .main-5 {
-    display: inline-block;
     background-color: #f3ffd8;
     width: 200px;
     height: 200px;
 }
+
 .main-6 {
-    display: inline-block;
     background-color: #edffbe;
     width: 200px;
     height: 200px;
 }
+
 .main-7 {
-    display: inline-block;
     background-color: #e9ffa5;
     width: 200px;
     height: 200px;
 }
+
 .main-8 {
-    display: inline-block;
     background-color: #e4ff8d;
     width: 200px;
     height: 200px;
 }
+
 .main-9 {
-    display: inline-block;
     background-color: #d9e5ff;
     width: 200px;
     height: 200px;
 }
+
 .main-10 {
-    display: inline-block;
     background-color: #bad3ff;
     width: 200px;
     height: 200px;
 }
+
 .main-11 {
-    display: inline-block;
     background-color: #a4c6ff;
     width: 200px;
     height: 200px;
 }
+
 .main-12 {
-    display: inline-block;
     background-color: #8eb8ff;
     width: 200px;
     height: 200px;
